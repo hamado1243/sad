@@ -1,5 +1,5 @@
 owner=492659932722626580
-prefix=T
+prefix=t
 game=CSGO
 stayinchannel=true
 songinstatus=false
