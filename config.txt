@@ -1,6 +1,6 @@
-owner=346651050427678721
-prefix=M
-game=play
+owner=492659932722626580
+prefix=T
+game=CSGO
 stayinchannel=true
 songinstatus=false
-token=NjI3MTY3MDM5Njg5MTk1NTIw.XdKpWQ.LYJ28jZCK9UAYo031FaZFIPU4uU
+token=NjQ3MTE4NTc1NjU1NTgzNzQ0.XdbCSg.VESMWfZa4Ffz2_rTFCjcq1U0F7I
